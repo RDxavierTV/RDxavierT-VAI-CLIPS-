@@ -1,0 +1,9 @@
+{
+  "channels": [
+    {
+      "platform": "kick",
+      "username": "rdjavi",
+      "enabled": true
+    }
+  ]
+}
